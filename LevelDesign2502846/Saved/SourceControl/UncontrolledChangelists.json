@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/TEMP.AUSTD.002/Documents/GitHub/Game-design-2802846/LevelDesign2502846/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/TEMP.AUSTD.002/Documents/GitHub/Game-design-2802846/LevelDesign2502846/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/TEMP.AUSTD.002/Documents/GitHub/Game-design-2802846/LevelDesign2502846/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset"
+			]
+		}
+	]
+}
